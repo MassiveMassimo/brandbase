@@ -21,5 +21,8 @@
 - Monochrome notes:
 - Wordmark notes:
 
+## Parent Brand
+- Part of: {parent-slug}
+
 ## Source
 - Official brand guidelines: {url}
