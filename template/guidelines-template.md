@@ -21,6 +21,10 @@
 - Monochrome notes:
 - Wordmark notes:
 
+## Missing Assets
+Official assets that exist but are not included because they are not available in SVG format:
+- {description}: {format} — {url or source}
+
 ## Parent Brand
 - Part of: {parent-slug}
 

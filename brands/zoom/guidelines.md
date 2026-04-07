@@ -23,6 +23,13 @@
 - Monochrome notes: zoom-wordmark-monochrome.svg (black wordmark — requires prior brand approval per instance)
 - Wordmark notes: zoom-wordmark.svg (Bloom), zoom-wordmark-light.svg (White), zoom-wordmark-monochrome.svg (Black). Wordmark is 352×80 native aspect ratio.
 
+## Missing Assets
+Official assets that exist but are not included because they are not available in SVG format:
+- Logomark Bloom (Z icon, squircle): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
+- Logomark Bloom (Z icon, no container): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
+- Logomark White (Z icon, squircle): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
+- Logomark White (Z icon, no container): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
+
 ## Source
 - Official brand guidelines: https://brand.zoom.com/document/1#/logos-and-lockups/the-zoom-logo
 - Logomark and favicon: https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
