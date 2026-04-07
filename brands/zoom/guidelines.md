@@ -25,10 +25,10 @@
 
 ## Missing Assets
 Official assets that exist but are not included because they are not available in SVG format:
-- Logomark Bloom (Z icon, squircle): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
-- Logomark Bloom (Z icon, no container): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
-- Logomark White (Z icon, squircle): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
-- Logomark White (Z icon, no container): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
+- Logomark Bloom, preferred (wordmark in squircle container): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
+- Logomark Bloom, optional (wordmark in square container): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
+- Logomark White, preferred (wordmark in white squircle on blue): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
+- Logomark White, optional (wordmark in white square on blue): PNG — https://brand.zoom.com/document/1#/logos-and-lockups/logomark-and-favicon
 
 ## Source
 - Official brand guidelines: https://brand.zoom.com/document/1#/logos-and-lockups/the-zoom-logo
